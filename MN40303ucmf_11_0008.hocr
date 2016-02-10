@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40303ucmf_11_0008.png"; bbox 0 0 2429 3456; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 201 329 1197 687">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 201 329 1197 687">
+     <span class='ocr_line' id='line_1_1' title="bbox 201 329 1197 687; baseline -0.001 -61"><span class='ocrx_word' id='word_1_1' title='bbox 201 329 662 687; x_wconf 79' lang='lat' dir='ltr'>Siber,</span> <span class='ocrx_word' id='word_1_2' title='bbox 725 344 800 626; x_wconf 86' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_3' title='bbox 808 333 1197 626; x_wconf 80' lang='lat' dir='ltr'>ohan</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 196 1278 1215 2049">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 196 1278 1215 2049">
+     <span class='ocr_line' id='line_1_2' title="bbox 196 1278 1215 1576; baseline 0.005 -6"><span class='ocrx_word' id='word_1_4' title='bbox 196 1293 361 1570; x_wconf 89' lang='lat' dir='ltr'><strong>In</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 415 1278 1095 1576; x_wconf 81' lang='lat' dir='ltr'><strong>Proverb.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1213 1307 1215 1325; x_wconf 78' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 199 1750 1215 2049; baseline -0.032 0"><span class='ocrx_word' id='word_1_7' title='bbox 199 1753 385 2049; x_wconf 80' lang='lat' dir='ltr'><strong>da</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 437 1754 804 2045; x_wconf 84' lang='lat' dir='ltr'>mihi</span> <span class='ocrx_word' id='word_1_9' title='bbox 867 1750 1093 2043; x_wconf 86' lang='lat' dir='ltr'><strong>fili</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1172 1860 1215 2009; x_wconf 72' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1220 3456">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1220 3456">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1220 3456; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1220 3456; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 196 2703 1188 3078">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 196 2703 1188 3078">
+     <span class='ocr_line' id='line_1_5' title="bbox 196 2703 1188 3078; baseline -0.008 -84"><span class='ocrx_word' id='word_1_12' title='bbox 196 2705 1050 3078; x_wconf 77' lang='lat' dir='ltr'>Herztberg‚</span> <span class='ocrx_word' id='word_1_13' title='bbox 1134 2703 1188 2986; x_wconf 82' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
